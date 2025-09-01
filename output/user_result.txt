@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-31 18:20:38,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
+2025-09-01 18:24:19,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
 
 🌊港·澳·台,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
@@ -17,7 +17,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40$订阅源
-纬来育乐,http://api.mytv666.top/api/hkhk.php?id=3165616132653636313766396265326639656663626530326530386464616563267469643d77696e74763132332669643d3831&auth=123$订阅源
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
@@ -30,26 +29,24 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
 Now剧集,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台$订阅源
 Now华剧,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台$订阅源
-靖天资讯,http://api.mytv666.top/api/hkhk.php?id=6639383065333066306334313662336238356630636437666434343762656663267469643d74762669643d313631&auth=123$订阅源
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40$订阅源
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv$订阅源
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 纬来电影,http://api.mytv666.top/api/fh6.php?t=影视频道&id=纬来电影$订阅源
 纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie$订阅源
-靖天映画,http://api.mytv666.top/api/hkhk.php?id=3366353563616434393236663337313533636664313136376136663331626566267469643d74762669643d313636&auth=123$订阅源
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源
-靖天戏剧,http://api.mytv666.top/api/hkhk.php?id=6439376364633336386561313339623337393864633730336461636261613535267469643d74762669643d313334&auth=123$订阅源
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40$订阅源
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40$订阅源
 经典电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425$订阅源
 经典电影,http://lxajh.top/tv/douyu.php?id=74374$订阅源
-IPTV经典电影,http://43.138.0.72:35455/yy/1382754187$订阅源
 天映经典,http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(粤)$订阅源
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8$订阅源
