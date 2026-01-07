@@ -1,89 +1,87 @@
-Name: 凤凰中文, URL: https://mgev.188766.xyz/?migutoken=0224b1dd1fdc41636947e27e5e4e9739&id=hk_fhzw&type=dy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰香港, URL: https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 190 ms, Speed: 6.73 M/s, Resolution: 1280x720
-Name: 凤凰香港, URL: https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 39 ms, Speed: 33.50 M/s, Resolution: 1280x720
-Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 293 ms, Speed: 1.05 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: https://mgev.188766.xyz/?migutoken=31e78b1e690b64cd03437d6022a25072&id=hk_fhzw&type=dy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 凤凰中文, URL: http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 229 ms, Speed: 7.86 M/s, Resolution: 1280x720
+Name: 凤凰香港, URL: https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 320 ms, Speed: 7.38 M/s, Resolution: 1280x720
+Name: 凤凰香港, URL: https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 61 ms, Speed: 27.27 M/s, Resolution: 1280x720
 Name: 纬来体育, URL: rtmp://f13h.mine.nu:1935/sat/tv721, IPv_Type: ipv4, Location: 中国-台湾-台中市, ISP: 中华电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
 Name: 纬来体育, URL: rtmp://60.248.77.83/sat/tv721, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
 Name: 纬来体育, URL: rtmp://9hv9.mine.nu/sat/tv721.flv, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信(HiNet)数据中心, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1280x720
-Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: 52 ms, Speed: 65.05 M/s, Resolution: 1920x1080
-Name: 凤凰中文, URL: http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: 766 ms, Speed: 2.19 M/s, Resolution: 1280x720
-Name: 凤凰中文, URL: http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 503 ms, Speed: 4.87 M/s, Resolution: 1280x720
-Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 862 ms, Speed: 0.08 M/s, Resolution: None
-Name: 纬来体育, URL: https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1284 ms, Speed: 0.60 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 23 ms, Speed: 13.60 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: 265 ms, Speed: 25.02 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8, IPv_Type: ipv4, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 289 ms, Speed: 0.39 M/s, Resolution: None
+Name: Viutv, URL: https://turkmedya-live.ercdn.net/tv360/tv360.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: FDC机房, Date: None, Delay: 1277 ms, Speed: 1.98 M/s, Resolution: 1920x1080
 Name: Now剧集, URL: http://iptv.4666888.xyz/iptv.php?id=20091, IPv_Type: ipv4, Location: 中国-香港, ISP: AS979_Net, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: Now剧集, URL: http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台, IPv_Type: ipv4, Location: 新加坡, ISP: 腾讯云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: Viutv, URL: https://turkmedya-live.ercdn.net/tv360/tv360.m3u8, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: FDC机房, Date: None, Delay: 1368 ms, Speed: 1.67 M/s, Resolution: 1920x1080
-Name: 靖天资讯, URL: https://stream1.freetv.fun/jing-tian-zi-xun-2.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天资讯, URL: https://t.freetv.fun/live/jing-tian-zi-xun-10.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来体育, URL: https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 927 ms, Speed: 0.69 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: 3527 ms, Speed: 1.41 M/s, Resolution: 1280x720
+Name: 靖天资讯, URL: https://stream1.freetv.fun/jing-tian-zi-xun-3.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: Now剧集, URL: http://ali.hlspull.yximgs.com/live/7c345438db67b6d391c58c0472525c4c.flv, IPv_Type: ipv4, Location: 美国-加利福尼亚州-圣克拉拉, ISP: 阿里云CDN节点, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CHC家庭影院, URL: https://migu.188766.xyz/?migutoken=29b6b34fa30f982c0f1ed43f2bb2c94b&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CHC家庭影院, URL: http://yp.qqqtv.top/1/api.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 138 ms, Speed: 12.29 M/s, Resolution: 1280x720
-Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 5626 ms, Speed: 0.64 M/s, Resolution: 1920x1080
-Name: 凤凰中文, URL: https://cdn6.101.qzz.io/163189/fhzw, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 130 ms, Speed: 43.19 M/s, Resolution: None
-Name: CHC动作电影, URL: http://129.150.54.232:10001/yy/1382736809, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 1900 ms, Speed: 0.24 M/s, Resolution: 1280x720
-Name: 凤凰中文, URL: http://cdn6.163189.xyz/163189/fhzw, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: 883 ms, Speed: 18.69 M/s, Resolution: None
-Name: 凤凰中文, URL: https://cdn6.163189.xyz/163189/fhzw, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: 906 ms, Speed: 11.81 M/s, Resolution: None
+Name: 靖天资讯, URL: https://t.freetv.fun/live/jing-tian-zi-xun-11.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CHC家庭影院, URL: https://migu.188766.xyz/?migutoken=e9a87c471f2c18483c5f6d2ec2937d09&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 凤凰中文, URL: http://cdn6.163189.xyz/163189/fhzw, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: 217 ms, Speed: 25.59 M/s, Resolution: None
+Name: 凤凰中文, URL: https://cdn6.163189.xyz/163189/fhzw, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: 222 ms, Speed: 25.52 M/s, Resolution: None
+Name: 凤凰中文, URL: https://cdn6.101.qzz.io/163189/fhzw, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 220 ms, Speed: 25.96 M/s, Resolution: None
+Name: CHC家庭影院, URL: http://yp.qqqtv.top/1/api.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&auth=666858, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 792 ms, Speed: 3.37 M/s, Resolution: 1280x720
+Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: Cogent, Date: None, Delay: 5579 ms, Speed: 0.57 M/s, Resolution: 1920x1080
 Name: CHC高清电影, URL: http://api2.52tb.xyz/info?id=221&token=20230218qkyjia, IPv_Type: ipv4, Location: 新加坡, ISP: 腾讯云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CHC高清电影, URL: http://218.15.183.23:9901/tsfile/live/23044_1.m3u8, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 电信, Date: None, Delay: 12086 ms, Speed: 0.05 M/s, Resolution: 1920x1080
 Name: CHC高清电影, URL: http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby, IPv_Type: ipv4, Location: 新加坡, ISP: 腾讯云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CHC高清电影, URL: http://218.15.183.23:9901/tsfile/live/23044_1.m3u8, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 电信, Date: None, Delay: 12399 ms, Speed: 0.03 M/s, Resolution: 1920x1080
+Name: CHC高清电影, URL: http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 12066 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: CHC高清电影, URL: http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 移动, Date: None, Delay: 12448 ms, Speed: 0.21 M/s, Resolution: 1920x1080
 Name: CHC高清电影, URL: http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CHC高清电影, URL: http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Location: 中国-广东-梅州, ISP: 移动, Date: None, Delay: 12307 ms, Speed: 0.26 M/s, Resolution: 1920x1080
-Name: Now剧集, URL: http://rihou.cc:555/tv/[Hk]Now剧集, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1280x720
-Name: CHC高清电影, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 12006 ms, Speed: 0.00 M/s, Resolution: None
+Name: CHC动作电影, URL: http://129.150.54.232:10001/yy/1382736809, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 2271 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: CHC高清电影, URL: rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 12005 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CHC高清电影, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 12005 ms, Speed: 0.00 M/s, Resolution: None
-Name: CHC高清电影, URL: http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: 12071 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: CHC高清电影, URL: rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 12006 ms, Speed: 0.00 M/s, Resolution: None
+Name: Now剧集, URL: http://rihou.cc:555/tv/[Hk]Now剧集, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: CHC高清电影, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 12005 ms, Speed: 0.00 M/s, Resolution: None
 Name: CHC高清电影, URL: http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Location: 中国-天津-天津, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CHC高清电影, URL: http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv, IPv_Type: ipv4, Location: 中国-广东-湛江, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CHC高清电影, URL: http://dassby.qqff.top:99/live/CHC高清/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: Now剧集, URL: http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: AMD公司, Date: None, Delay: 325 ms, Speed: 0.00 M/s, Resolution: None
-Name: CHC高清电影, URL: rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil, IPv_Type: ipv4, Location: 中国-江西-宜春, ISP: 电信, Date: None, Delay: 12005 ms, Speed: 0.00 M/s, Resolution: None
+Name: Now剧集, URL: http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv, IPv_Type: ipv6, Location: 美国-加利福尼亚州-圣克拉拉, ISP: AMD公司, Date: None, Delay: 81 ms, Speed: 0.00 M/s, Resolution: None
+Name: CHC高清电影, URL: http://dassby.qqff.top:99/live/CHC高清/index.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-鞍山, ISP: 联通, Date: None, Delay: 12960 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 淘剧场, URL: http://222.129.33.14:8888/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://114.246.180.128:4022/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://111.196.131.46:20000/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://114.243.110.10/rtp/239.3.1.95:8001$北京联通组播源-cache:114.243.110.10, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-13, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://114.246.180.128:4022/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://123.115.117.13/rtp/239.3.1.95:8001$北京联通组播源-cache:123.115.117.13, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://114.243.110.10/rtp/239.3.1.95:8001$北京联通组播源-cache:114.243.110.10, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-13, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://114.254.90.247/rtp/239.3.1.95:8001$北京联通组播源-cache:114.254.90.247, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://114.243.109.124/rtp/239.3.1.95:8001$北京联通组播源-cache:114.243.109.124, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-16, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://123.113.251.39/rtp/239.3.1.95:8001$北京联通组播源-cache:123.113.251.39, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-05, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://123.122.162.179/rtp/239.3.1.95:8001$北京联通组播源-cache:123.122.162.179, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-25, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://114.253.247.226/rtp/239.3.1.95:8001$北京联通组播源-cache:114.253.247.226, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-18, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://111.196.130.76/rtp/239.3.1.95:8001$北京联通组播源-cache:111.196.130.76, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-08, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://111.193.205.100/rtp/239.3.1.95:8001$北京联通组播源-cache:111.193.205.100, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://123.122.162.179/rtp/239.3.1.95:8001$北京联通组播源-cache:123.122.162.179, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-25, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://114.243.109.186/rtp/239.3.1.95:8001$北京联通组播源-cache:114.243.109.186, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-15, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://123.113.180.31/rtp/239.3.1.95:8001$北京联通组播源-cache:123.113.180.31, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-05, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://114.254.81.216/rtp/239.3.1.95:8001$北京联通组播源-cache:114.254.81.216, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://111.193.205.100/rtp/239.3.1.95:8001$北京联通组播源-cache:111.193.205.100, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv6, Location: 中国-香港, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://yemingjkl.x3322.net:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://hk-cc.960612.xyz:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv4, Location: 中国-香港, ISP: 阿里云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://123.113.180.31/rtp/239.3.1.95:8001$北京联通组播源-cache:123.113.180.31, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-05, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://114.254.81.216/rtp/239.3.1.95:8001$北京联通组播源-cache:114.254.81.216, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://test.smart-more.cn:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv4, Location: 中国-上海-上海, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://hk-cc.960612.xyz:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv4, Location: 中国-香港, ISP: 阿里云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://lt.hxtre.com:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv4, Location: 中国-安徽-马鞍山, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://123.122.163.25/rtp/239.3.1.95:8001$北京联通组播源-cache:123.122.163.25, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-26, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 淘剧场, URL: http://115.171.216.75:4000/rtp/225.1.8.37:8002, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 淘剧场, URL: http://115.171.216.73:4000/rtp/225.1.8.37:8002, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://123.122.163.25/rtp/239.3.1.95:8001$北京联通组播源-cache:123.122.163.25, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-26, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://iptv.666230.xyz/iptv/bjyd.php/6553, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://111.196.128.46/rtp/239.3.1.95:8001$北京联通组播源-cache:111.196.128.46, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-26, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://114.243.107.130/rtp/239.3.1.95:8001$北京联通组播源-cache:114.243.107.130, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-15, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://221.223.21.200/rtp/239.3.1.95:8001$北京联通组播源-cache:221.223.21.200, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-02-12, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 淘剧场, URL: http://iptv.666230.xyz/iptv/bjyd.php/6553, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://tnvcn.com:8012/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘剧场, URL: http://111.196.128.46/rtp/239.3.1.95:8001$北京联通组播源-cache:111.196.128.46, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-26, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 淘娱乐, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 淘剧场, URL: http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/.m3u8, IPv_Type: ipv4, Location: 中国-河北-廊坊, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来电影, URL: https://live.catvod.com/live.php?id=videolandmovie, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天映画, URL: http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5105, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: IT7网络, Date: None, Delay: 136 ms, Speed: 0.65 M/s, Resolution: 1280x720
-Name: 纬来电影, URL: http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 564 ms, Speed: 5.94 M/s, Resolution: 1920x1080
+Name: 淘娱乐, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 纬来电影, URL: http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148, IPv_Type: ipv4, Location: 美国-内华达州-克拉克, ISP: BuyVM, Date: None, Delay: 592 ms, Speed: 5.33 M/s, Resolution: 1920x1080
+Name: 靖天映画, URL: http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5105, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: IT7网络, Date: None, Delay: 172 ms, Speed: 0.50 M/s, Resolution: 1280x720
+Name: 淘剧场, URL: http://yemingjkl.x3322.net:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv4, Location: 中国-湖北-武汉, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://114.254.91.239/rtp/239.3.1.95:8001$北京联通组播源-cache:114.254.91.239, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: 2025-01-30, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 天映经典, URL: https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8, IPv_Type: ipv6, Location: 美国, ISP: Akamai Technologies Inc., Date: None, Delay: 69 ms, Speed: 86.17 M/s, Resolution: 1280x720
+Name: 天映经典, URL: https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8, IPv_Type: ipv6, Location: 美国, ISP: Akamai Technologies Inc., Date: None, Delay: 88 ms, Speed: 55.06 M/s, Resolution: 1280x720
+Name: 天映经典, URL: https://live.catvod.com/live.php?id=Celestial2&token=bdd1bdc4e2becf150bac7e7625172871787f44f04c400e03863a113cdd966c69%3A1760318395%3AMTM1LjExOS4yMzUuODM%3D, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 淘剧场, URL: http://cc.95279527.space:35455/bptv/10000100000000050000000003887497.m3u8, IPv_Type: ipv4, Location: 中国-香港, ISP: 阿里云, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森洋片, URL: http://zb.hpc.tw/smtv.php?id=ettvwestern, IPv_Type: ipv4, Location: 美国-加利福尼亚州-洛杉矶, ISP: AS981_Net, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森洋片, URL: https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 71 ms, Speed: 23.95 M/s, Resolution: 1280x720
 Name: 淘剧场, URL: http://221.221.153.193:8888/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森洋片, URL: https://smt.858.qzz.io/Smart.php?id=ettvwestern, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森洋片, URL: https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 817 ms, Speed: 16.17 M/s, Resolution: 1280x720
+Name: 靖天戏剧, URL: http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 12604 ms, Speed: 0.07 M/s, Resolution: None
 Name: 淘剧场, URL: http://114.254.35.159:8888/rtp/239.3.1.95:8001, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 靖天戏剧, URL: http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true, IPv_Type: ipv4, Location: 中国-台湾, ISP: 中华电信, Date: None, Delay: 12594 ms, Speed: 0.04 M/s, Resolution: None
+Name: IPTV经典电影, URL: http://183.220.107.138:4022/rtp/239.10.0.122:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 487 ms, Speed: 0.28 M/s, Resolution: 1920x1080
 Name: 淘剧场, URL: http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 中移铁通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: IPTV经典电影, URL: http://183.220.107.138:4022/rtp/239.10.0.122:5140, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 464 ms, Speed: 0.28 M/s, Resolution: 1920x1080
 Name: 淘剧场, URL: http://218.60.86.8:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/.m3u8, IPv_Type: ipv4, Location: 中国-辽宁-大连, ISP: 联通数据中心, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 私人影院, URL: http://play-aliyun.zego.im/live/2225ce86b84a0eb4a24f4fbeb74a00ba.flv, IPv_Type: ipv4, Location: IANA, ISP: 本地链路(Link_Local), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
