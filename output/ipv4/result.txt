@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-23 18:28:16,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
+2026-01-25 18:22:39,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
 
 🌊港·澳·台,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
@@ -33,6 +33,7 @@ Now华剧,http://rihou.cc:555/tv/[Hk]Now华剧$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$订阅源
+CHC家庭影院,http://43.251.226.89:8080/play/225.m3u8$订阅源
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源
 CHC动作电影,http://43.251.226.89:8080/play/96.m3u8$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
@@ -41,25 +42,22 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
-淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001$订阅源
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001$订阅源
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148$订阅源
 纬来电影,http://43.251.226.89:8080/play/679.m3u8$订阅源
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40$订阅源
 靖天映画,http://118.233.28.52:50007/li-4gtv-4gtv055/index.m3u8?proxy=true$订阅源
-靖天映画,http://43.251.226.89:8080/play/1361.m3u8$订阅源
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40$订阅源
 靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097$订阅源
 靖天戏剧,http://118.233.28.52:50007/li-4gtv-4gtv058/index.m3u8?proxy=true$订阅源
-靖天戏剧,http://43.251.226.89:8080/play/1359.m3u8$订阅源
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40$订阅源
 经典电影,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5126$订阅源
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187$订阅源
-IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024$订阅源
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源
+天映经典,http://rihou.cc:555/tv/[SX]天映经典$订阅源
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8$订阅源
 天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921$订阅源
-天映经典,http://43.251.226.89:8080/play/1197.m3u8$订阅源
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40$订阅源
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$订阅源
