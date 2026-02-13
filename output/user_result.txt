@@ -1,15 +1,12 @@
 🕘️更新时间,#genre#
-2026-02-11 18:51:52,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=803$订阅源
+2026-02-13 18:41:39,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163871$订阅源
 
 🌊港·澳·台,#genre#
-凤凰中文,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=803$订阅源
-凤凰资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4906$订阅源
 凤凰资讯,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163871$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
-纬来体育,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5459$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
 
@@ -25,10 +22,8 @@ CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001$订阅源
-靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097$订阅源
-经典电影,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5126$订阅源
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001$订阅源
+淘娱乐,http://tnvcn.com:8012/rtp/239.3.1.100:8001$订阅源
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187$订阅源
-天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921$订阅源
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148$订阅源
-东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
