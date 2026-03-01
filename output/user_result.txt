@@ -1,14 +1,12 @@
 🕘️更新时间,#genre#
-2026-02-27 18:39:20,http://pull-vivek.speedws.com/live/aaafhzx.flv$订阅源
+2026-03-01 18:27:35,http://pull-vivek.speedws.com/live/aaafhzx.flv$订阅源
 
 🌊港·澳·台,#genre#
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv$订阅源
-凤凰资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4906$订阅源
 凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv$订阅源
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
-纬来体育,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5459$订阅源
 纬来育乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LytB8PAWI5qHeUwo-0QWCs1A9pvx7CTVkX2S2BjFC9v_4VTOc_w8J6K6W0LmW8qDcIRNVjqwzlr6XAQODOJcYhoYrqJN-1kg5KNwb5OGLSM-DXI5Ny2_gglov0OFanF_bcaiIaTxmEtBkPvG6W3OUaiSSijmdpKngqt4Isvd4GkxUXoK3KpjQy_lIMwFTzaWjtA.m3u8?u=1756878715$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715$订阅源
@@ -27,18 +25,16 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001$订阅源
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001$订阅源
 纬来电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LypZl51sr4vf3DGhZh3g1VUuuJLW7HVy471lEuDO-YH11Gl0MCkU9WPcq_d0755X83srub1-XHBE5VbZ_j0gx5SPYEI5SLQlIljrPPsTmql9SFpa6P4IOxG5COwYIkcjPYJSXp8eyJ2SYELzoWKcB5ls02Ml0ER2jnqJTLQouDP-GRTvxVnAv-md1jJ8pOhWFPA.m3u8?u=1756878715$订阅源
 靖天映画,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHfDjvhlcSwubLm2ffedfFXku6bvyJpxyrIEil4B5LpfVMB8A7gpCCrWNvUSRiXXXeWf1ajMfN0PWvetfPYUdZzzDCXtxjUEpQmUqB1RGqWo2mZ7LEjTph_HtLZJTFi16cFluiQqoa-_n1Cz54-LDR4kIN8-KraW11yGB1XUdSi2hqpxIyqWAX8djADiGB2xKg.m3u8?u=1756878715$订阅源
 靖天戏剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigJRk9nNZfdQ5KmzwPu3xjSrKySuRWBJbHZ5YtffC5wtAB3-LU-P5NWPcngnr2OYKkY23jMbpUosf4_-eMjznxUorn3o7F-Y3zUJLvl-9t-8Z7LYA9KWdbozjo399NVGOVLU5dQ5vn0pLYnv4AvRiG0jDPjUIiObB8NeiKWaMxMCKXQY10ybVhtO3sJhG3tneLg.m3u8?u=1756878715$订阅源
-靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097$订阅源
-经典电影,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5126$订阅源
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 天映经典,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU2jH_Pl6VqGBxHA1IcsitfbKBR673Nu6KG0a27h2exhgUv2dW7fXLtqFZUFX8lctnx2REX0_9N_OE-shnVLOGaoO-0m2O1w2pp5b8sE82sD6hkqtKyg0TkrETYUXvMKUXU9iNc9OW1bvzOvWqkjmjiDdB0XQq2Ci1iWw5fVRe7CRLJb6cHe9q13apio-Vp0OMIvhoPz6HTwp5r3Ay9JXAsQ.m3u8?u=1756878715$订阅源
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv$订阅源
-天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921$订阅源
 星空卫视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUtqn72bh5ByEeN1pGwfgL_0eCAgaEJFGBPspm-seoyRo7vNb6SdZ-q-JTbv5u4EKBU0W_xo7GSguujxhA00O-vPpCxMEWNUve3PFs8Xp7OldxjjM1_7zOh0YH-Kpa5qF5SEkniznfLh8Uhg4YvtJjIiQYyf7_plHuOfYMhgX5NFRK07U-gLPTMJm0jcnTHJbIzTk14kWTmc--Kp5qNJmNtg.m3u8?u=1756878715$订阅源
 东森电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715$订阅源
 东森洋片,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715$订阅源
-东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454$订阅源
 东森超视,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lylo8KUJQTw1XM1IsXqjJnCxGXLXhrak82yhR8-9Wjyp9Jv3dZZvl6rvdTktEA2MYUd10pSrYSPnc8hHXs4J-aTh66eb712HSAUMkxcK0pUyO3bxG7rVxjU34m9a8Hm_FIYUYPNK8SbDa6K25k5-H2esS87XxkHjgfg9u2-1NH6z-rAXzr38rHUrVSVVJaT81Cg.m3u8?u=1756878715$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
