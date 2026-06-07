@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-05 20:40:11,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
+2026-06-07 19:50:09,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
 
 🌊港·澳·台,#genre#
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
 凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT$订阅源
-凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT$订阅源
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$订阅源
+凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT$订阅源
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT$订阅源
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
@@ -14,22 +14,20 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
 
 🎬电影频道,#genre#
+CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt$订阅源
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8$订阅源
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8$订阅源
-CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt$订阅源
 CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8$订阅源
+CHC动作电影,http://192.151.150.154/live/chcdz.m3u8$订阅源
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8$订阅源
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001$订阅源
 淘娱乐,http://tnvcn.com:8012/rtp/239.3.1.100:8001$订阅源
-靖天映画,https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8$订阅源
-靖天戏剧,https://iptv.852851.xyz/ch/a0ce5f61da4ba42090cd8a6fb3144126/master.m3u8$订阅源
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
