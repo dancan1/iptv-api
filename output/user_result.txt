@@ -1,15 +1,18 @@
 🕘️更新时间,#genre#
-2026-08-23 18:23:14,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
+2026-08-25 18:32:25,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
 
 🌊港·澳·台,#genre#
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
+凤凰中文,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34629$订阅源
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$订阅源
+凤凰资讯,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34641$订阅源
 凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$订阅源
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv$订阅源
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
+纬来育乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34808$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
 
