@@ -1,10 +1,12 @@
 🕘️更新时间,#genre#
-2026-08-29 22:57:51,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
+2026-09-01 01:29:03,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
 
 🌊港·澳·台,#genre#
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$订阅源
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$订阅源
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$订阅源
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$订阅源
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8$订阅源
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv$订阅源
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
@@ -20,7 +22,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8$订阅源
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil$订阅源
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil$订阅源
-纬来电影,https://flv-play.clouda.com/live/Ry0MO81AVT7tMdC0mAXxDkKWXVDYmPZGFf2UEwdsUP2rz.flv$订阅源
 经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8$订阅源
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$订阅源
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463$订阅源
